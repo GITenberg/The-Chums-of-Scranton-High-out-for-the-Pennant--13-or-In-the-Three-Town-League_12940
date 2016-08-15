@@ -1,0 +1,23 @@
+_repo: The-Chums-of-Scranton-High-out-for-the-Pennant--13-or-In-the-Three-Town-League_12940
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ferguson, Donald
+    gutenberg_agent_id: '4730'
+    url: http://www.gutenberg.org/2009/agents/4730
+description: ''
+gutenberg_issued: '2004-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12940'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Baseball -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'High school students -- Juvenile fiction'
+- GITenberg
+title: "The Chums of Scranton High out for the Pennant\r\nor, In the Three Town League"
+url: http://www.gutenberg.org/ebooks/12940
